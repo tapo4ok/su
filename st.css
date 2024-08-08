@@ -1,0 +1,13 @@
+body { background-color: #2f3136; }
+        .card { background-color: #36393f; border: none; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); color: #bebebe; }
+        .card-header { background-color: #2f3136; border-bottom: none; }
+        .card-body { padding: 20px; }
+        .form-group { margin-bottom: 20px; }
+        .form-control { background-color: #2f3136; border: none; border-radius: 5px; color: #ccc; }
+        .text-gray-600 { color: #ccc; }
+        .btn-primary { background-color: #7289da; border: none; border-radius: 5px; color: #fff; cursor: pointer; }
+        .btn-primary:hover { background-color: #677bc4; }
+        .card-footer { background-color: #2f3136; border-top: none; padding: 10px; }
+        .card-footer p { margin-bottom: 10px; }
+        .card-footer a { color: #7289da; text-decoration: none; }
+        .card-footer a:hover { color: #677bc4; }
